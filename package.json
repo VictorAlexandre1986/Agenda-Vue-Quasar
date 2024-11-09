@@ -11,6 +11,7 @@
     "build": "quasar build"
   },
   "dependencies": {
+    "@capacitor-community/sqlite": "^6.0.2",
     "@quasar/extras": "^1.16.4",
     "quasar": "^2.16.0",
     "vue": "^3.4.18",

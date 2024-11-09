@@ -8,10 +8,25 @@ yarn
 # or
 npm install
 ```
+## Add capacitor
+```bash
+quasar mode add capacitor
+npm install @capacitor-community/sqlite
+```
+
+## Compile para mobile
+```bash
+quasar build -m capacitor -T android
+```
+
+## Start the app in development mode
+```bash
+quasar build -m capacitor -T android
+```
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
 ```bash
-quasar dev
+Npm run dev
 ```
 
 

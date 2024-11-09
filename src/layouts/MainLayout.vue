@@ -12,10 +12,10 @@
         />
 
         <q-toolbar-title>
-          Quasar App
+          Agenda de contatos
         </q-toolbar-title>
 
-        <div>Quasar v{{ $q.version }}</div>
+        <div>Versão v{{ $q.version }}</div>
       </q-toolbar>
     </q-header>
 
